@@ -16,7 +16,8 @@ Desenvolver uma página web simples e elegante que represente minhas informaçõ
 - Seções de formação, habilidades e projetos
 
 ## 📷 Preview
-(Adicione aqui um print do seu currículo depois)
+<img width="959" height="868" alt="Captura de tela 2026-03-25 184133" src="https://github.com/user-attachments/assets/a053ac5e-0f07-4cf3-8b11-ffcd26efa3a1" />
+
 
 ## 📚 Aprendizados
 Durante este projeto, aprendi:
