@@ -26,4 +26,4 @@ Durante este projeto, aprendi:
 - Organização de conteúdo para apresentação profissional
 
 ## 🔗 Acesso
-(Se hospedar depois no GitHub Pages, coloca aqui o link)
+https://octaviomello.github.io/curriculo/
